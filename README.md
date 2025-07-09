@@ -4,6 +4,7 @@ Overvoltage Protection (OVP) Design
 ![circuit (1)](https://github.com/user-attachments/assets/23767309-7363-4955-b36b-7e4dc2d119f0)
 
 ![image](https://github.com/user-attachments/assets/86b0a520-265c-40e6-a2bc-c17aa09e96ef)
+https://www.tinkercad.com/things/7OVVphR8wAs/editel?returnTo=%2Fdashboard&sharecode=civsaJwR5cG3V3o4BbBBPipCrFIjfJUuW6_nNYgQ0oU
 
 
 
